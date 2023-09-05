@@ -1,0 +1,19 @@
+#radio-item {
+  width: auto;
+}
+#outer {
+  width: fit-content;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  background: rgb(162, 43, 85);
+}
+
+table {
+  margin: 5%;
+  padding: 1%;
+  color: white;
+  border: 1px solid black;
+  background-color: rgb(117, 33, 63);
+}
