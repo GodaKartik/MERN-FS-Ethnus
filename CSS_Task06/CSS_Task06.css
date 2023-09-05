@@ -1,8 +1,8 @@
 #radio-item {
-  width: auto;
+  width: fit-content;
 }
 #outer {
-  width: fit-content;
+  width: max-content;
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 0.5%;
@@ -10,11 +10,16 @@
   background: rgb(162, 43, 85);
 }
 
+#register {
+  width: 80%;
+  font-weight: bold;
+}
+
 table {
   margin: 5%;
   padding: 1%;
   color: white;
-  width: max-content;
   border: 1px solid black;
   background-color: rgb(117, 33, 63);
+  width: fit-content;
 }
