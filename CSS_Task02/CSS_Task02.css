@@ -20,7 +20,7 @@ a {
 .v-nav-item {
   background: aqua;
 }
-.active-v {
+.v-nav-item:hover {
   background: orange;
 }
 .h-nav-item {
@@ -29,6 +29,6 @@ a {
   background: rgb(193, 193, 193);
   border-right: 0.5px solid blue;
 }
-.active-h {
+.h-nav-item:hover {
   background: grey;
 }
